@@ -74,10 +74,13 @@ service:
       etc. I also convert website, facebook page, twitter and many more into a workable
       Mobile Applications.
     highlighted: true
-  - title: Interaction Design
+  - title: DataBase Administration
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: "I can build Database System for different purposes.\nSelection of hardware
+      and software.\nKeep up with current technological trends.\nProtection of data
+      against accidental or intentional loss, destruction, or misuse.\nTheDBMS languages
+      i used are:\nData Definition Language (DDL), Data Manipulation Language (DML)
+      and Data Control Language (DCL). \n"
     highlighted: false
 portfolio:
   enable: true
