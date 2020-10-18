@@ -55,9 +55,9 @@ education:
   - title: West African Senior School Certificate Examination (WASSCE)
     year: "2016"
     academy: Government Secondary School For Boys (MSSB)
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+  - title: Basic Education Certificate Examination (BECE)
+    year: "2010"
+    academy: Pampana High School Magburaka (PHS)
 service:
   enable: true
   title: Services
