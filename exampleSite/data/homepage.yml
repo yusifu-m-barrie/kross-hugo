@@ -20,8 +20,8 @@ skill:
   - title: Software Engineering
     progress: 70%
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: DataBase Management
+    progress: 50%
     color: "#bdecf6"
   - title: Web App
     progress: 70%
