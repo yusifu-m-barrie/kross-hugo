@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+address = "Makeni City Sierra Leone"
+author = "Yusifu M. Barrie"
+copyright = "Copyright &copy; 2020 Yusifu M. Barrie "
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "usifubarriem@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = "+232 77 982256"
 theme_color = "#41228e"
 [params.contact]
 enable = true
