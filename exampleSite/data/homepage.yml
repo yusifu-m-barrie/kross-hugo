@@ -65,7 +65,7 @@ service:
   - title: Website Design and Development
     icon: ti-palette
     content: I design and developed different types of website using different tools.
-      Tools like HTML, CSS & JAVASCRIPTS, HUGO, DRUPAL, WORDPRESS AND wix
+      Tools like HTML, CSS & JAVASCRIPTS, HUGO, DRUPAL, WORDPRESS and wix.
     highlighted: false
   - title: Web App Development
     icon: ti-vector
