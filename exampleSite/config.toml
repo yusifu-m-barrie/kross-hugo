@@ -2,7 +2,7 @@ baseURL = "https://usifumbarrie.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Ayon"
 [[menu.main]]
 URL = "about"
 name = "About"
