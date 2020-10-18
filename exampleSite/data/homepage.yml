@@ -67,10 +67,12 @@ service:
     content: I design and developed different types of website using different tools.
       Tools like HTML, CSS & JAVASCRIPTS, HUGO, DRUPAL, WORDPRESS AND wix
     highlighted: false
-  - title: UX Design
+  - title: Web App Development
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: I am good at developing web applications and web management systems.
+      Systems like School Management Systems, Online Voting Systems, Banking Systems
+      etc. I also convert website, facebook page, twitter and many more into a workable
+      Mobile Applications.
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
