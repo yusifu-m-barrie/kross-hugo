@@ -65,7 +65,7 @@ preloader = "images/preloader.gif"
 URL = "https://www.facebook.com/ayon.barrie/"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "https://www.instagram.com/ayon_senior"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
