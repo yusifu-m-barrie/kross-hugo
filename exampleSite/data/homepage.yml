@@ -62,13 +62,6 @@ service:
   enable: true
   title: Services
   item:
-  - title: Data Collection and Analysis
-    icon: ti-search
-    content: |-
-      I work with different tools to collect and analysis different types of data.
-      Tools like:
-      SPSS, Open Data Kit (ODK), Google Forms etc
-    highlighted: ''
   - title: Website Design and Development
     icon: ti-palette
     content: I design and developed different types of website using different tools.
@@ -81,6 +74,13 @@ service:
       etc. I also convert website, facebook page, twitter and many more into a workable
       Mobile Applications.
     highlighted: true
+  - title: Data Collection and Analysis
+    icon: ti-search
+    content: |-
+      I work with different tools to collect and analysis different types of data.
+      Tools like:
+      SPSS, Open Data Kit (ODK), Google Forms etc
+    highlighted: ''
   - title: DataBase Administration
     icon: ti-panel
     content: "I can build Database System for different purposes.\nSelection of hardware
