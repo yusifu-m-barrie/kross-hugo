@@ -13,19 +13,7 @@ about:
 skill:
   enable: true
   title: Skills
-  item:
-  - title: Web Design
-    progress: 90%
-    color: "#fdb157"
-  - title: Software Engineering
-    progress: 70%
-    color: "#9473e6"
-  - title: DataBase Management
-    progress: 50%
-    color: "#bdecf6"
-  - title: Web App
-    progress: 70%
-    color: "#ffbcaa"
+  item: []
 experience:
   enable: true
   title: Experience
