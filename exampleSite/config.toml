@@ -4,10 +4,6 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Ayon"
 [[menu.main]]
-URL = "Ayon"
-name = "ayon"
-weight = "1"
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
