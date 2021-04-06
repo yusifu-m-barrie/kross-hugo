@@ -30,6 +30,10 @@ experience:
   enable: true
   title: Experience
   item:
+  - logo: ''
+    title: Daily worker
+    company: Medicines Sans Frontier (MSF)
+    duration: "2014"
   - logo: images/experience/icon-1.png
     title: Senior Web Developer
     company: Link Corporation Limited Sierra Leone
