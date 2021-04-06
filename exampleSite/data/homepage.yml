@@ -30,7 +30,7 @@ experience:
   enable: true
   title: Experience
   item:
-  - logo: ''
+  - logo: images/experience/icon-1.png
     title: Data Entry Officer
     company: National Civil Registration Authority (NCRA)
     duration: "2017"
