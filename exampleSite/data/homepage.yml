@@ -14,6 +14,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Web Developer
+    progress: "90"
+    color: red
   - progress: "70"
     title: Computer programming
     color: red
