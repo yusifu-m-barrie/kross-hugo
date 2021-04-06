@@ -30,6 +30,10 @@ experience:
   enable: true
   title: Experience
   item:
+  - logo: ''
+    title: Data Entry Officer
+    company: National Civil Registration Authority (NCRA)
+    duration: "2017"
   - logo: images/experience/icon-1.png
     title: Senior Web Developer
     company: Link Corporation Limited Sierra Leone
