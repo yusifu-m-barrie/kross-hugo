@@ -30,10 +30,6 @@ experience:
   enable: true
   title: Experience
   item:
-  - logo: images/experience/icon-2.png
-    title: Enumerator
-    company: Statistics Sierra Leone
-    duration: "2015"
   - logo: images/experience/icon-1.png
     title: Senior Web Developer
     company: Link Corporation Limited Sierra Leone
@@ -46,10 +42,14 @@ experience:
     title: 'I. T Officer '
     company: Real Women in Action Programme Sierra Leone (ReWAP.SL)
     duration: May 2014 - Feb 2017
-  - logo: images/experience/icon-1.png
+  - logo: images/experience/icon-2.png
     title: Data Entry Officer
     company: National Civil Registration Authority (NCRA)
     duration: "2017"
+  - logo: images/experience/icon-2.png
+    title: Enumerator
+    company: Statistics Sierra Leone
+    duration: "2015"
 education:
   enable: true
   title: Education
