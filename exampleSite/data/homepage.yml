@@ -30,6 +30,10 @@ experience:
   enable: true
   title: Experience
   item:
+  - logo: ''
+    title: Data Entry Officer (ARO - 1)
+    company: 'National Electoral Commission (NEC) '
+    duration: "2017"
   - logo: images/experience/icon-1.png
     title: Senior Web Developer
     company: Link Corporation Limited Sierra Leone
