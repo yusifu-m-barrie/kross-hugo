@@ -13,7 +13,10 @@ about:
 skill:
   enable: true
   title: Skills
-  item: []
+  item:
+  - progress: "70"
+    title: Computer programming
+    color: red
 experience:
   enable: true
   title: Experience
