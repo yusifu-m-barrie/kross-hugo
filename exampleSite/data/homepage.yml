@@ -92,11 +92,11 @@ service:
     highlighted: true
   - title: DataBase Administration
     icon: ti-panel
-    content: "I can build Database System for different purposes.\nSelection of hardware
-      and software.\nKeep up with current technological trends.\nProtection of data
-      against accidental or intentional loss, destruction, or misuse.\nTheDBMS languages
-      i used are:\nData Definition Language (DDL), Data Manipulation Language (DML)
-      and Data Control Language (DCL). \n"
+    content: |
+      I can build Database System for different purposes.
+      Selection of hardware and software.
+      Keep up with current technological trends.
+      Protection of data against accidental or intentional loss, destruction, or misuse.
     highlighted: false
   - title: Data Collection and Analysis
     icon: ti-search
