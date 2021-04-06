@@ -30,6 +30,10 @@ experience:
   enable: true
   title: Experience
   item:
+  - logo: ''
+    title: Enumerator
+    company: Statistics Sierra Leone
+    duration: "2015"
   - logo: images/experience/icon-1.png
     title: Senior Web Developer
     company: Link Corporation Limited Sierra Leone
