@@ -31,10 +31,6 @@ experience:
   title: Experience
   item:
   - logo: images/experience/icon-1.png
-    title: Data Entry Officer
-    company: National Civil Registration Authority (NCRA)
-    duration: "2017"
-  - logo: images/experience/icon-1.png
     title: Senior Web Developer
     company: Link Corporation Limited Sierra Leone
     duration: April 2020 - Present
@@ -46,6 +42,10 @@ experience:
     title: 'I. T Officer '
     company: Real Women in Action Programme Sierra Leone (ReWAP.SL)
     duration: May 2014 - Feb 2017
+  - logo: images/experience/icon-1.png
+    title: Data Entry Officer
+    company: National Civil Registration Authority (NCRA)
+    duration: "2017"
 education:
   enable: true
   title: Education
