@@ -106,7 +106,7 @@ service:
       SPSS, Open Data Kit (ODK), Google Forms etc
     highlighted: true
   - title: Phone Unlock
-    icon: ti-phone
+    icon: ti-mobile
     content: I unlock different types of phones. Locks like Icloud, Administrative
       lock for both Iphones & Andriod, FRP, Bypass password/pattern, stock on logo
       etc.
