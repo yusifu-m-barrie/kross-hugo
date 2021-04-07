@@ -78,14 +78,6 @@ service:
   enable: true
   title: Services
   item:
-  - title: Sell Phones & Computers
-    icon: ''
-    content: 'I also do electronic business, wherein I have different types of phones
-      and computers for sale at a reasonable price. All sort of iPhones, samsung,
-      LG, Google Pixel etc, and different Computer Models.
-
-'
-    highlighted: ''
   - title: Website Design and Development
     icon: ti-palette
     content: I design and developed different types of website using different tools.
@@ -119,6 +111,14 @@ service:
       lock for both Iphones & Andriod, FRP, Bypass password/pattern, stock on logo
       etc.
     highlighted: true
+  - title: Sell Phones & Computers
+    icon: ti-computer
+    content: 'I also do electronic business, wherein I have different types of phones
+      and computers for sale at a reasonable price. All sort of iPhones, samsung,
+      LG, Google Pixel etc, and different Computer Models.
+
+'
+    highlighted: ''
 portfolio:
   enable: true
   title: Portfolio
