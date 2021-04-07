@@ -36,13 +36,16 @@ team:
   title: My Photos
   team_member:
   - title: ''
+    image: ''
+    designation: ''
+  - title: ''
     image: "/images/about/author.jpg"
     designation: ''
   - title: ''
     image: "/images/ayon.jpg"
     designation: ''
   - title: ''
-    image: "/images/img_1786.jpg"
+    image: "/images/img_1904.jpg"
     designation: ''
 clients_logo_slider:
   enable: false
