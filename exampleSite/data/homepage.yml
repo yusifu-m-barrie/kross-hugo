@@ -104,7 +104,7 @@ service:
       I work with different tools to collect and analysis different types of data.
       Tools like:
       SPSS, Open Data Kit (ODK), Google Forms etc
-    highlighted: ''
+    highlighted: true
   - title: Phone Unlock
     icon: ''
     content: ''
