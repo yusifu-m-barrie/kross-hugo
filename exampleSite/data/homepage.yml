@@ -110,7 +110,7 @@ service:
     content: I unlock different types of phones. Locks like Icloud, Administrative
       lock for both Iphones & Andriod, FRP, Bypass password/pattern, stock on logo
       etc.
-    highlighted: ''
+    highlighted: true
 portfolio:
   enable: true
   title: Portfolio
