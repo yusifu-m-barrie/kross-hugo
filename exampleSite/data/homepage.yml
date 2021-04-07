@@ -118,7 +118,7 @@ service:
       LG, Google Pixel etc, and different Computer Models.
 
 '
-    highlighted: ''
+    highlighted: true
 portfolio:
   enable: true
   title: Portfolio
