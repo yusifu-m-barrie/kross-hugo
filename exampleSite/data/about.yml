@@ -33,7 +33,7 @@ work_process:
       those too."
 team:
   enable: true
-  title: My Team
+  title: My Photos
   team_member:
   - title: ''
     image: "/images/about/author.jpg"
