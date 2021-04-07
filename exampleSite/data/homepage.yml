@@ -14,7 +14,7 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Data Base Administrator
+  - title: Data Base Administration
     progress: "45"
     color: red
   - title: Data Entry
