@@ -36,6 +36,12 @@ team:
   title: My Photos
   team_member:
   - title: ''
+    image: "/images/img_1880.jpg"
+    designation: ''
+  - title: ''
+    image: ''
+    designation: ''
+  - title: ''
     image: ''
     designation: ''
   - title: ''
