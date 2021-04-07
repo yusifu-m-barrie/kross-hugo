@@ -82,7 +82,7 @@ service:
     icon: ti-palette
     content: I design and developed different types of website using different tools.
       Tools like HTML, CSS & JAVASCRIPTS, HUGO, DRUPAL, WORDPRESS and wix.
-    highlighted: false
+    highlighted: true
   - title: Web App Development
     icon: ti-vector
     content: I am good at developing web applications and web management systems.
