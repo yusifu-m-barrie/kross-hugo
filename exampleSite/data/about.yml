@@ -28,10 +28,9 @@ work_process:
       upto 90%.\nI Show him 2nd demo. Try to get final details and tuneups that are
       needed.\nGo back to work and finish it.\nShow him the finished product. If he
       still wants changes. I informed him I will make this changes once the site is
-      on his server. Because server environment also plays an important role. \nUpload
-      files to his server and block access with .htaccess for outer world. OR just
-      leave it open if its a small site that nobody cares about.\nI Do my final touches
-      here. Tell him its done.\nExpect some more changes and finish those too."
+      on his server. Because server environment also plays an important role. \nI
+      Do my final touches here. Tell him its done.\nExpect some more changes and finish
+      those too."
 team:
   enable: true
   title: My Team
