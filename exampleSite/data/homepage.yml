@@ -112,7 +112,8 @@ service:
       etc.
     highlighted: true
   - title: Sell Phones & Computers
-    icon: ti-phone
+    icon: <a href="https://icons8.com/icon/nzVJZo6Dflno/phone-case">Phone Case icon
+      by Icons8</a>
     content: 'I also do electronic business, wherein I have different types of phones
       and computers for sale at a reasonable price. All sort of iPhones, samsung,
       LG, Google Pixel etc, and different Computer Models.
