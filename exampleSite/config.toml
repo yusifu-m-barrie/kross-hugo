@@ -20,7 +20,7 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "Makeni City Sierra Leone"
+address = "42 Soldier Street, Makeni City, Sierra Leone."
 author = "Yusifu M. Barrie"
 copyright = "Copyright &copy; 2020 Yusifu M. Barrie "
 description = "I am Proficient in Computer Skills like Programming, Data Base (Data Programs), Networking, Web Design and Administration and standard Microsoft Office packages"
