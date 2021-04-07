@@ -22,7 +22,7 @@ skill:
     color: red
   - title: Web Development
     progress: "90"
-    color: red
+    color: blue
   - progress: "70"
     title: Computer programming
     color: red
