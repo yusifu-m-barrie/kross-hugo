@@ -41,9 +41,9 @@ team:
   - title: ''
     image: "/images/ayon.jpg"
     designation: ''
-  - title: John Doe
-    image: images/team/member-3.png
-    designation: Designer
+  - title: ''
+    image: "/images/img_1786.jpg"
+    designation: ''
 clients_logo_slider:
   enable: false
   title: My Clients
