@@ -97,7 +97,7 @@ service:
       Selection of hardware and software.
       Keep up with current technological trends.
       Protection of data against accidental or intentional loss, destruction, or misuse.
-    highlighted: false
+    highlighted: true
   - title: Data Collection and Analysis
     icon: ti-search
     content: |-
