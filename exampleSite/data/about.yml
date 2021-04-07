@@ -31,8 +31,7 @@ work_process:
       on his server. Because server environment also plays an important role. \nUpload
       files to his server and block access with .htaccess for outer world. OR just
       leave it open if its a small site that nobody cares about.\nI Do my final touches
-      here. Tell him its done.\nExpect some more changes and finish those too.\nAsk
-      for your payment now."
+      here. Tell him its done.\nExpect some more changes and finish those too."
 team:
   enable: true
   title: My Team
