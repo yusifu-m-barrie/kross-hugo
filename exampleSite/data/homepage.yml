@@ -16,7 +16,7 @@ skill:
   item:
   - title: Data Base Administration
     progress: "45"
-    color: red
+    color: blue
   - title: Data Entry
     progress: "75"
     color: red
