@@ -12,8 +12,14 @@ work_process:
       I identify reliable sources of good information and data, determining the suitability of information for projects or research, and organizing information and data using appropriate technology and methodology.
   - title: Design and Develop
     icon: images/icons/design.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: |-
+      The ultimate goal of my systems/applications is to satisfy the stated objectives such as accuracy, stability, and input/output relationships. Nevertheless it is appropriate to separately evaluate the individual components of the system. Therefore, I will evaluate the quality of my end products. There are two categories of performance criteria with which I evaluate the “goodness”. Quantitative criteria include dynamic efficiency (speed of execution), static efficiency (memory requirements), and accuracy of the results. Qualitative criteria center on ease of software maintenance. Another qualitative way to evaluate my end product is ease of understanding.
+
+                  Easy to debug (fix mistakes)
+
+                  Easy to verify (prove correctness)
+
+                  Easy to maintain (add features)
   - title: Deliver
     icon: images/icons/print.png
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
