@@ -104,7 +104,7 @@ service:
       I work with different tools to collect and analysis different types of data.
       Tools like:
       SPSS, Open Data Kit (ODK), Google Forms etc
-    highlighted: false
+    highlighted: true
   - title: Phone Unlock
     icon: ti-mobile
     content: I unlock different types of phones. Locks like Icloud, Administrative
