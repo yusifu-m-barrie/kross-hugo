@@ -5,8 +5,10 @@ work_process:
   item:
   - title: Research and Plan
     icon: images/icons/plan.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: |
+      I have the ability to plan, organise, manage, and complete projects or tasks effectively while meeting deadlines;
+      Effective time management and organisation skills are essential to managing workloads, meeting deadlines, and producing quality work in a professional environment;
+      Good planning and organisation skills include setting goals and managing priorities to meet established objectives, outcomes, and timelines, and demonstrating an ability to organize and carry out multiple tasks or projects at the same time.
   - title: Design and Develop
     icon: images/icons/design.png
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
