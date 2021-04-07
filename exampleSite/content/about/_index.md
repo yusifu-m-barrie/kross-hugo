@@ -6,8 +6,10 @@ author_signature : "images/about/signature.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+My name Yusifu Mohamed Binta Barrie, I am a believer and I’m a doer. I am well known for my Skills. Am a Website Developer that has vast experience in developing different types of websites. Another part of me that i feel proud of is- I am a quick learner and self-motivated person. I am good at technology skills especially skills that deals with computer and phone. My aim is to be an Ethical Hacker.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+I was born and brought up at Kamakwie town Karene District, Sierra Leone West Africa. I spend little time at kamakwie and later moved to Makeni town  for my Primary School level and Later went to Magburaka town for my Junior and senior level of education which by later i moved back to Makeni to pursue my Bachelors Degree.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+My father was a ventinary  officer at both Makeni and Magburaka town but he later passed away and left me with my mum. My mum is a business woman she takes care of us.
+
+I am frank and prettily friendly some say i am high tempered but when it comes to help i can help everyone. i have so many weakness but the most is, I cant say No to people. I find it very difficult to refuse people especially when it’s about helping them.
