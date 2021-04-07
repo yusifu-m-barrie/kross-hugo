@@ -62,21 +62,18 @@ education:
   enable: true
   title: Education
   item:
-  - title: Cybersecurity Intro
-    year: April 2020
-    academy: IBM (Information Technology & Services)
   - title: BSC in Computer Science
     year: Jan 2017 - March 2021
     academy: University of Makeni (UniMak)
-  - title: Basic Education Certificate Examination (BECE)
-    year: "2010"
-    academy: Pampana High School Magburaka (PHS)
   - title: Web Design and Administration
     year: July 2017 - Sep 2017
     academy: Extension Training programme UniMak
   - title: West African Senior School Certificate Examination (WASSCE)
     year: "2016"
     academy: Government Secondary School For Boys (MSSB)
+  - title: Basic Education Certificate Examination (BECE)
+    year: "2010"
+    academy: Pampana High School Magburaka (PHS)
 service:
   enable: true
   title: Services
