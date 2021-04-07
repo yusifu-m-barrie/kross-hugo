@@ -25,7 +25,7 @@ skill:
     color: blue
   - progress: "70"
     title: Computer programming
-    color: red
+    color: blue
 experience:
   enable: true
   title: Experience
