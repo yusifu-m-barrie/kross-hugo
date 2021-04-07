@@ -89,7 +89,7 @@ service:
       Systems like School Management Systems, Online Voting Systems, Banking Systems
       etc. I also convert website, facebook page, twitter and many more into a workable
       Mobile Applications.
-    highlighted: true
+    highlighted: false
   - title: DataBase Administration
     icon: ti-panel
     content: |
