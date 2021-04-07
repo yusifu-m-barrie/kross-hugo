@@ -20,7 +20,7 @@ skill:
   - title: Data Entry
     progress: "75"
     color: red
-  - title: Web Developer
+  - title: Web Development
     progress: "90"
     color: red
   - progress: "70"
