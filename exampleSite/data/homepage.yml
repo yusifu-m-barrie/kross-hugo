@@ -62,6 +62,9 @@ education:
   enable: true
   title: Education
   item:
+  - title: Data Entry Training
+    year: April 2020
+    academy: IBM (Information Technology & Services)
   - title: BSC in Computer Science
     year: Jan 2017 - March 2021
     academy: University of Makeni (UniMak)
